@@ -74,4 +74,3 @@ heading = Label(top, text="bladness Detector",
 heading.configure(background='#CDCDCD', foreground='#364156')
 heading.pack()
 top.mainloop()
-print('fucks')
